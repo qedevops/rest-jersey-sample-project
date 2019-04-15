@@ -1,0 +1,5 @@
+com/jerseysampleproject/services/Convert.class
+com/jerseysampleproject/events/TemperatureWrapper.class
+com/jerseysampleproject/events/Temperature.class
+com/jerseysampleproject/restjersey/FahrenheitToCelsiusService.class
+com/jerseysampleproject/restjersey/CelsiusToFahrenheitService.class
